@@ -5,6 +5,4 @@ Just
   - Dump it into a pickle file
   - Change the model directory in the app.py file
   - Change index.html to your liking
-  - BONUS - completely change the frontend if u wish to sweat
-
-Thank you
+  - BONUS - completely change the frontend if u wish so
