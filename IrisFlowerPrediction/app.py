@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify, render_template
 app = Flask(__name__)
 
 # Load your model
-model = pickle.load(open(r'C:\Users\Suveer\Desktop\Guna\model.pkl', 'rb'))
+model = pickle.load(open('IrisFlowerPrediction\model.pkl', 'rb'))
 
 
 # Route the home page
